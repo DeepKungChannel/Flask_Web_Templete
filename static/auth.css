@@ -1,0 +1,20 @@
+.container {
+    padding-top: 1.5rem;
+}
+
+.error_text {
+    color: red;
+    padding-top: 0.5rem;
+}
+
+.summit-button {
+    margin-top: 1rem;
+}
+
+.form-group {
+    margin-top: 0.4rem;
+}
+
+.title {
+    margin-bottom: 1.5rem;
+}
